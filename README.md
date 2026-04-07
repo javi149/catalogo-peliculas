@@ -16,6 +16,9 @@ php artisan serve
 ```
 Luego abre http://127.0.0.1:8000 en el navegador.
 
+### Servidor activo en el navegador
+![Servidor Laravel Activo](img/Captura%20de%20pantalla%202026-04-07%20143016.png)
+
 ---
 
 ## Paso 1 — Configuración del entorno
